@@ -1,42 +1,58 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "99.99%",
-    "time": 87
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "baizhiheizi",
+    "url": "https://baizhiheizi.com",
+    "slug": "baizhiheizi",
     "status": "up",
     "uptime": "100.00%",
-    "time": 109
+    "time": 227
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "PRSDigg",
+    "url": "https://prsdigg.com",
+    "slug": "prs-digg",
     "status": "up",
-    "uptime": "99.84%",
-    "time": 357
+    "uptime": "100.00%",
+    "time": 1016
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00%",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "OhMy",
+    "url": "https://ohmy.xin",
+    "slug": "oh-my",
     "status": "up",
-    "uptime": "99.98%",
-    "time": 47
+    "uptime": "100.00%",
+    "time": 1225
+  },
+  {
+    "name": "Flowin",
+    "url": "https://flowin.xin",
+    "slug": "flowin",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1116
+  },
+  {
+    "name": "Payin",
+    "url": "https://payin.xin",
+    "slug": "payin",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1279
+  },
+  {
+    "name": "blog.prsdigg.com",
+    "url": "https://blog.prsdigg.com",
+    "slug": "blog-prsdigg-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 365
+  },
+  {
+    "name": "docs.ohmy.xin",
+    "url": "https://docs.ohmy.xin",
+    "slug": "docs-ohmy-xin",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 517
   }
 ]
