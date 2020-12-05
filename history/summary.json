@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 193,
-    "timeWeek": 175,
-    "timeMonth": 175,
-    "timeYear": 175
+    "time": 149,
+    "timeDay": 46,
+    "timeWeek": 149,
+    "timeMonth": 149,
+    "timeYear": 149
   },
   {
     "name": "PRSDigg",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1113,
-    "timeDay": 1168,
-    "timeWeek": 1113,
-    "timeMonth": 1113,
-    "timeYear": 1113
+    "time": 1124,
+    "timeDay": 1171,
+    "timeWeek": 1124,
+    "timeMonth": 1124,
+    "timeYear": 1124
   },
   {
     "name": "OhMy",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1283,
-    "timeDay": 1323,
-    "timeWeek": 1283,
-    "timeMonth": 1283,
-    "timeYear": 1283
+    "time": 1285,
+    "timeDay": 1295,
+    "timeWeek": 1285,
+    "timeMonth": 1285,
+    "timeYear": 1285
   },
   {
     "name": "Flowin",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1248,
-    "timeDay": 1318,
-    "timeWeek": 1248,
-    "timeMonth": 1248,
-    "timeYear": 1248
+    "time": 1261,
+    "timeDay": 1314,
+    "timeWeek": 1261,
+    "timeMonth": 1261,
+    "timeYear": 1261
   },
   {
     "name": "Payin",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1260,
-    "timeDay": 1263,
-    "timeWeek": 1260,
-    "timeMonth": 1260,
-    "timeYear": 1260
+    "time": 1286,
+    "timeDay": 1388,
+    "timeWeek": 1286,
+    "timeMonth": 1286,
+    "timeYear": 1286
   },
   {
     "name": "blog.prsdigg.com",
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 328,
-    "timeWeek": 461,
-    "timeMonth": 461,
-    "timeYear": 461
+    "time": 431,
+    "timeDay": 312,
+    "timeWeek": 431,
+    "timeMonth": 431,
+    "timeYear": 431
   },
   {
     "name": "docs.ohmy.xin",
@@ -105,10 +105,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 377,
-    "timeWeek": 394,
-    "timeMonth": 394,
-    "timeYear": 394
+    "time": 403,
+    "timeDay": 439,
+    "timeWeek": 403,
+    "timeMonth": 403,
+    "timeYear": 403
   }
 ]
