@@ -40,9 +40,9 @@
     "url": "https://ohmy.xin",
     "icon": "https://favicons.githubusercontent.com/ohmy.xin",
     "slug": "oh-my",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "98.67%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
@@ -52,6 +52,7 @@
     "timeMonth": 1268,
     "timeYear": 1268,
     "dailyMinutesDown": {
+      "2020-12-08": 0,
       "2020-12-07": 19
     }
   },
