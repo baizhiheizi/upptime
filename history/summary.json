@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 154,
     "timeDay": 99,
-    "timeWeek": 154,
+    "timeWeek": 145,
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1126,
     "timeDay": 1228,
-    "timeWeek": 1126,
+    "timeWeek": 1140,
     "timeMonth": 1126,
     "timeYear": 1126,
     "dailyMinutesDown": {}
@@ -40,18 +40,19 @@
     "url": "https://ohmy.xin",
     "icon": "https://favicons.githubusercontent.com/ohmy.xin",
     "slug": "oh-my",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
     "time": 1293,
-    "timeDay": 1406,
-    "timeWeek": 1293,
+    "timeDay": 1386,
+    "timeWeek": 1300,
     "timeMonth": 1293,
     "timeYear": 1293,
     "dailyMinutesDown": {
+      "2020-12-09": 0,
       "2020-12-08": 15,
       "2020-12-07": 19
     }
@@ -69,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 1237,
     "timeDay": 1187,
-    "timeWeek": 1237,
+    "timeWeek": 1252,
     "timeMonth": 1237,
     "timeYear": 1237,
     "dailyMinutesDown": {}
@@ -87,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 1299,
     "timeDay": 1338,
-    "timeWeek": 1299,
+    "timeWeek": 1302,
     "timeMonth": 1299,
     "timeYear": 1299,
     "dailyMinutesDown": {}
@@ -105,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 399,
     "timeDay": 295,
-    "timeWeek": 399,
+    "timeWeek": 403,
     "timeMonth": 399,
     "timeYear": 399,
     "dailyMinutesDown": {}
@@ -123,7 +124,7 @@
     "uptimeYear": "100.00%",
     "time": 410,
     "timeDay": 511,
-    "timeWeek": 410,
+    "timeWeek": 397,
     "timeMonth": 410,
     "timeYear": 410,
     "dailyMinutesDown": {}
