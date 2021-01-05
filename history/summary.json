@@ -67,19 +67,19 @@
     "url": "https://flowin.xin",
     "icon": "https://favicons.githubusercontent.com/flowin.xin",
     "slug": "flowin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1285,
-    "timeDay": 1318,
-    "timeWeek": 1379,
-    "timeMonth": 1289,
-    "timeYear": 1285,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.91%",
+    "time": 1284,
+    "timeDay": 1289,
+    "timeWeek": 1364,
+    "timeMonth": 1288,
+    "timeYear": 1284,
     "dailyMinutesDown": {
-      "2021-01-05": 0
+      "2021-01-05": 42
     }
   },
   {
