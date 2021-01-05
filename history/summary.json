@@ -43,12 +43,12 @@
     "status": "up",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.67%",
     "time": 1301,
     "timeDay": 1294,
-    "timeWeek": 1320,
+    "timeWeek": 1317,
     "timeMonth": 1303,
     "timeYear": 1301,
     "dailyMinutesDown": {
@@ -67,9 +67,9 @@
     "url": "https://flowin.xin",
     "icon": "https://favicons.githubusercontent.com/flowin.xin",
     "slug": "flowin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -78,7 +78,9 @@
     "timeWeek": 1379,
     "timeMonth": 1289,
     "timeYear": 1285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-05": 0
+    }
   },
   {
     "name": "Payin",
