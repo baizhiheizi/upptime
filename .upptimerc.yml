@@ -8,6 +8,8 @@ sites:
     url: https://baizhiheizi.com
   - name: PRSDigg
     url: https://prsdigg.com
+  - name: PRSDigg API
+    url: https://prsdigg.com/api/articles
   - name: OhMy
     url: https://ohmy.xin
   - name: Flowin
