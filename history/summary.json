@@ -107,9 +107,9 @@
     "url": "https://payin.xin",
     "icon": "https://favicons.githubusercontent.com/payin.xin",
     "slug": "payin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -118,7 +118,9 @@
     "timeWeek": 1244,
     "timeMonth": 1273,
     "timeYear": 1298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-10": 0
+    }
   },
   {
     "name": "blog.prsdigg.com",
