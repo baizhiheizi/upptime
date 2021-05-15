@@ -22,10 +22,10 @@
     "url": "https://prsdigg.com",
     "icon": "https://favicons.githubusercontent.com/prsdigg.com",
     "slug": "prs-digg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1140,
@@ -33,25 +33,29 @@
     "timeWeek": 1046,
     "timeMonth": 1072,
     "timeYear": 1140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-15": 1
+    }
   },
   {
     "name": "PRSDigg API",
     "url": "https://prsdigg.com/api/articles",
     "icon": "https://favicons.githubusercontent.com/prsdigg.com",
     "slug": "prs-digg-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 780,
-    "timeDay": 1078,
-    "timeWeek": 1092,
-    "timeMonth": 995,
-    "timeYear": 780,
-    "dailyMinutesDown": {}
+    "time": 834,
+    "timeDay": 3256,
+    "timeWeek": 1635,
+    "timeMonth": 1139,
+    "timeYear": 834,
+    "dailyMinutesDown": {
+      "2021-05-15": 1
+    }
   },
   {
     "name": "OhMy",
@@ -108,11 +112,11 @@
     "icon": "https://favicons.githubusercontent.com/payin.xin",
     "slug": "payin",
     "status": "down",
-    "uptime": "97.89%",
-    "uptimeDay": "91.13%",
+    "uptime": "97.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "50.54%",
     "uptimeMonth": "88.62%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.90%",
     "time": 1298,
     "timeDay": 0,
     "timeWeek": 1323,
