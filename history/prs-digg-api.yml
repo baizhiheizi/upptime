@@ -1,7 +1,7 @@
 url: https://prsdigg.com/api/articles
-status: down
-code: 500
-responseTime: 452
-lastUpdated: 2022-07-28T05:18:24.100Z
+status: up
+code: 200
+responseTime: 585
+lastUpdated: 2022-07-28T05:41:49.120Z
 startTime: Fri Feb 19 2021 11:13:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
