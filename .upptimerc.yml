@@ -6,20 +6,18 @@ repo: upptime # Your Github repository name
 sites:
   - name: baizhiheizi
     url: https://baizhiheizi.com
-  - name: PRSDigg
-    url: https://prsdigg.com
-  - name: PRSDigg API
-    url: https://prsdigg.com/api/articles
+  - name: Quill
+    url: https://quill.im
+  - name: Quill API
+    url: https://quill.im/api/articles
+  - name: docs.quill.im
+    url: https://docs.quill.im
   - name: OhMy
     url: https://ohmy.xin
-  - name: Flowin
-    url: https://flowin.xin
-  - name: Payin
-    url: https://payin.xin
-  - name: blog.prsdigg.com
-    url: https://blog.prsdigg.com
   - name: docs.ohmy.xin
     url: https://docs.ohmy.xin
+  - name: Flowin
+    url: https://flowin.xin
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
