@@ -40,18 +40,20 @@
     "url": "https://quill.im/api/articles",
     "icon": "https://icons.duckduckgo.com/ip3/quill.im.ico",
     "slug": "quill-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 759,
-    "timeWeek": 757,
-    "timeMonth": 694,
-    "timeYear": 698,
-    "dailyMinutesDown": {}
+    "time": 689,
+    "timeDay": 537,
+    "timeWeek": 702,
+    "timeMonth": 681,
+    "timeYear": 689,
+    "dailyMinutesDown": {
+      "2022-10-02": 0
+    }
   },
   {
     "name": "docs.quill.im",
