@@ -1,7 +1,7 @@
 url: https://quill.im
-status: up
-code: 200
-responseTime: 508
-lastUpdated: 2023-03-19T23:17:25.485Z
+status: down
+code: 429
+responseTime: 490
+lastUpdated: 2023-03-20T19:30:45.321Z
 startTime: Sun Aug 21 2022 01:51:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
