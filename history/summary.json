@@ -138,18 +138,19 @@
     "url": "https://flowin.xin",
     "icon": "https://icons.duckduckgo.com/ip3/flowin.xin.ico",
     "slug": "flowin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 881,
+    "time": 882,
     "timeDay": 440,
     "timeWeek": 762,
     "timeMonth": 681,
     "timeYear": 725,
     "dailyMinutesDown": {
+      "2024-04-06": 0,
       "2023-07-26": 18,
       "2023-04-14": 85
     }
