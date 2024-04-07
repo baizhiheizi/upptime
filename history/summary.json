@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 151,
-    "timeDay": 90,
-    "timeWeek": 139,
+    "timeDay": 111,
+    "timeWeek": 138,
     "timeMonth": 145,
-    "timeYear": 147,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2023-04-14": 1013
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.84%",
-    "time": 534,
-    "timeDay": 609,
-    "timeWeek": 554,
-    "timeMonth": 558,
-    "timeYear": 562,
+    "time": 539,
+    "timeDay": 1580,
+    "timeWeek": 804,
+    "timeMonth": 618,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2024-03-13": 16,
       "2023-12-17": 43,
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1026,
-    "timeDay": 1024,
-    "timeWeek": 1061,
-    "timeMonth": 1113,
-    "timeYear": 1068,
+    "time": 1083,
+    "timeDay": 14793,
+    "timeWeek": 4499,
+    "timeMonth": 1971,
+    "timeYear": 1141,
     "dailyMinutesDown": {
       "2023-12-17": 42,
       "2023-07-29": 18,
@@ -84,10 +84,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 413,
-    "timeDay": 431,
-    "timeWeek": 363,
-    "timeMonth": 370,
-    "timeYear": 400,
+    "timeDay": 444,
+    "timeWeek": 375,
+    "timeMonth": 372,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2023-08-11": 92
     }
@@ -103,10 +103,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1137,
-    "timeDay": 1173,
-    "timeWeek": 1208,
-    "timeMonth": 1291,
+    "time": 1138,
+    "timeDay": 1266,
+    "timeWeek": 1227,
+    "timeMonth": 1293,
     "timeYear": 1267,
     "dailyMinutesDown": {
       "2023-12-19": 81,
@@ -125,35 +125,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 476,
-    "timeDay": 285,
-    "timeWeek": 409,
-    "timeMonth": 468,
+    "timeDay": 433,
+    "timeWeek": 431,
+    "timeMonth": 471,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2023-08-11": 92
-    }
-  },
-  {
-    "name": "Flowin",
-    "url": "https://flowin.xin",
-    "icon": "https://icons.duckduckgo.com/ip3/flowin.xin.ico",
-    "slug": "flowin",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "41.82%",
-    "uptimeWeek": "91.69%",
-    "uptimeMonth": "98.09%",
-    "uptimeYear": "99.82%",
-    "time": 882,
-    "timeDay": 0,
-    "timeWeek": 764,
-    "timeMonth": 684,
-    "timeYear": 726,
-    "dailyMinutesDown": {
-      "2024-04-07": 71,
-      "2024-04-06": 767,
-      "2023-07-26": 18,
-      "2023-04-14": 85
     }
   }
 ]
