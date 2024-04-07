@@ -16,8 +16,6 @@ sites:
     url: https://ohmy.xin
   - name: docs.ohmy.xin
     url: https://docs.ohmy.xin
-  - name: Flowin
-    url: https://flowin.xin
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
