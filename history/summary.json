@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 151,
-    "timeDay": 190,
-    "timeWeek": 150,
-    "timeMonth": 146,
+    "time": 150,
+    "timeDay": 101,
+    "timeWeek": 137,
+    "timeMonth": 143,
     "timeYear": 147,
-    "dailyMinutesDown": {
-      "2023-04-14": 1013
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Quill",
@@ -31,8 +29,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.84%",
     "time": 540,
-    "timeDay": 487,
-    "timeWeek": 751,
+    "timeDay": 550,
+    "timeWeek": 755,
     "timeMonth": 609,
     "timeYear": 566,
     "dailyMinutesDown": {
@@ -42,8 +40,7 @@
       "2023-06-24": 112,
       "2023-06-23": 4,
       "2023-05-19": 99,
-      "2023-05-18": 204,
-      "2023-04-14": 354
+      "2023-05-18": 204
     }
   },
   {
@@ -53,24 +50,22 @@
     "slug": "quill-api",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1100,
-    "timeDay": 1080,
-    "timeWeek": 3933,
-    "timeMonth": 2077,
+    "time": 1101,
+    "timeDay": 1023,
+    "timeWeek": 3929,
+    "timeMonth": 2067,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2024-04-12": 12,
       "2023-12-17": 42,
       "2023-07-29": 18,
       "2023-06-24": 112,
       "2023-06-23": 305,
       "2023-05-19": 99,
-      "2023-05-18": 203,
-      "2023-04-14": 353
+      "2023-05-18": 203
     }
   },
   {
@@ -85,10 +80,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 412,
-    "timeDay": 325,
-    "timeWeek": 375,
-    "timeMonth": 366,
-    "timeYear": 399,
+    "timeDay": 408,
+    "timeWeek": 359,
+    "timeMonth": 368,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2023-08-11": 92
     }
@@ -104,14 +99,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1143,
-    "timeDay": 1095,
-    "timeWeek": 1175,
-    "timeMonth": 1283,
+    "time": 1144,
+    "timeDay": 1189,
+    "timeWeek": 1208,
+    "timeMonth": 1275,
     "timeYear": 1263,
     "dailyMinutesDown": {
-      "2023-12-19": 81,
-      "2023-04-14": 86
+      "2023-12-19": 81
     }
   },
   {
@@ -126,10 +120,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 474,
-    "timeDay": 442,
-    "timeWeek": 378,
-    "timeMonth": 453,
-    "timeYear": 461,
+    "timeDay": 520,
+    "timeWeek": 389,
+    "timeMonth": 449,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2023-08-11": 92
     }
