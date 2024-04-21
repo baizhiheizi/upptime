@@ -97,18 +97,19 @@
     "url": "https://ohmy.xin",
     "icon": "https://icons.duckduckgo.com/ip3/ohmy.xin.ico",
     "slug": "oh-my",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1154,
+    "time": 1155,
     "timeDay": 1514,
     "timeWeek": 1350,
     "timeMonth": 1281,
     "timeYear": 1261,
     "dailyMinutesDown": {
+      "2024-04-21": 0,
       "2023-12-19": 81
     }
   },
