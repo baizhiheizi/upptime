@@ -1,7 +1,7 @@
 url: https://quill.im/api/articles
-status: up
-code: 200
-responseTime: 2543
-lastUpdated: 2024-04-30T13:43:37.390Z
+status: down
+code: 404
+responseTime: 254
+lastUpdated: 2024-04-30T16:52:39.389Z
 startTime: 2022-08-21T01:51:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
