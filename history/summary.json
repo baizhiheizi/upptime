@@ -101,10 +101,10 @@
     "url": "https://docs.quill.im",
     "icon": "https://icons.duckduckgo.com/ip3/docs.quill.im.ico",
     "slug": "docs-quill-im",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 395,
@@ -113,6 +113,7 @@
     "timeMonth": 421,
     "timeYear": 393,
     "dailyMinutesDown": {
+      "2024-09-09": 1,
       "2024-08-30": 106
     }
   },
