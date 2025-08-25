@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 345,
-    "timeWeek": 279,
-    "timeMonth": 215,
+    "timeDay": 258,
+    "timeWeek": 278,
+    "timeMonth": 220,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.91%",
     "time": 824,
-    "timeDay": 596,
-    "timeWeek": 854,
-    "timeMonth": 774,
+    "timeDay": 792,
+    "timeWeek": 879,
+    "timeMonth": 771,
     "timeYear": 786,
     "dailyMinutesDown": {
       "2025-08-14": 27,
@@ -45,8 +45,7 @@
       "2024-10-04": 3,
       "2024-10-03": 68,
       "2024-09-17": 23,
-      "2024-09-15": 38,
-      "2024-08-25": 21
+      "2024-09-15": 38
     }
   },
   {
@@ -61,10 +60,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1266,
-    "timeDay": 1226,
-    "timeWeek": 1251,
-    "timeMonth": 1261,
-    "timeYear": 1238,
+    "timeDay": 1426,
+    "timeWeek": 1307,
+    "timeMonth": 1265,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2025-06-03": 32,
       "2025-03-03": 22,
@@ -75,8 +74,7 @@
       "2024-10-04": 2,
       "2024-10-03": 65,
       "2024-09-17": 22,
-      "2024-09-15": 36,
-      "2024-08-25": 20
+      "2024-09-15": 36
     }
   },
   {
@@ -90,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 408,
-    "timeDay": 397,
-    "timeWeek": 399,
-    "timeMonth": 541,
-    "timeYear": 411,
+    "time": 407,
+    "timeDay": 240,
+    "timeWeek": 378,
+    "timeMonth": 537,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2024-09-09": 18,
       "2024-08-30": 106
@@ -112,10 +110,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1402,
-    "timeDay": 1348,
-    "timeWeek": 1440,
-    "timeMonth": 1284,
-    "timeYear": 1430,
+    "timeDay": 1183,
+    "timeWeek": 1467,
+    "timeMonth": 1271,
+    "timeYear": 1429,
     "dailyMinutesDown": {
       "2025-07-21": 34,
       "2025-06-04": 17,
@@ -146,18 +144,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.ohmy.xin.ico",
     "slug": "docs-ohmy-xin",
     "status": "down",
-    "uptime": "84.06%",
+    "uptime": "84.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.66%",
-    "time": 470,
+    "uptimeYear": "24.39%",
+    "time": 471,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 478,
+    "timeYear": 477,
     "dailyMinutesDown": {
-      "2025-08-24": 114,
+      "2025-08-25": 108,
+      "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
