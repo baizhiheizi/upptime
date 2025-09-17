@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 285,
-    "timeWeek": 195,
-    "timeMonth": 373,
+    "timeDay": 135,
+    "timeWeek": 187,
+    "timeMonth": 374,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 787,
-    "timeDay": 1016,
-    "timeWeek": 597,
+    "time": 786,
+    "timeDay": 673,
+    "timeWeek": 639,
     "timeMonth": 794,
-    "timeYear": 753,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2025-08-14": 27,
       "2025-07-27": 42,
@@ -43,8 +43,7 @@
       "2024-10-12": 20,
       "2024-10-05": 106,
       "2024-10-04": 3,
-      "2024-10-03": 68,
-      "2024-09-17": 23
+      "2024-10-03": 68
     }
   },
   {
@@ -59,10 +58,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1244,
-    "timeDay": 2005,
-    "timeWeek": 1686,
-    "timeMonth": 1547,
-    "timeYear": 1276,
+    "timeDay": 1636,
+    "timeWeek": 1701,
+    "timeMonth": 1562,
+    "timeYear": 1277,
     "dailyMinutesDown": {
       "2025-06-03": 32,
       "2025-03-03": 22,
@@ -71,8 +70,7 @@
       "2024-10-12": 18,
       "2024-10-05": 106,
       "2024-10-04": 2,
-      "2024-10-03": 65,
-      "2024-09-17": 22
+      "2024-10-03": 65
     }
   },
   {
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 404,
-    "timeDay": 665,
+    "timeDay": 387,
     "timeWeek": 465,
-    "timeMonth": 411,
+    "timeMonth": 418,
     "timeYear": 411,
     "dailyMinutesDown": {}
   },
@@ -105,10 +103,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1406,
-    "timeDay": 1640,
-    "timeWeek": 1382,
+    "timeDay": 1048,
+    "timeWeek": 1355,
     "timeMonth": 1372,
-    "timeYear": 1424,
+    "timeYear": 1423,
     "dailyMinutesDown": {
       "2025-07-21": 34,
       "2025-06-04": 17,
@@ -139,18 +137,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.ohmy.xin.ico",
     "slug": "docs-ohmy-xin",
     "status": "down",
-    "uptime": "82.95%",
+    "uptime": "82.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.36%",
-    "time": 472,
+    "uptimeYear": "18.09%",
+    "time": 473,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-09-16": 97,
+      "2025-09-17": 97,
+      "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
       "2025-09-13": 1440,
