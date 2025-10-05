@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 195,
-    "timeWeek": 165,
-    "timeMonth": 177,
+    "timeDay": 190,
+    "timeWeek": 167,
+    "timeMonth": 179,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -27,12 +27,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 781,
-    "timeDay": 729,
-    "timeWeek": 662,
-    "timeMonth": 649,
-    "timeYear": 748,
+    "timeDay": 583,
+    "timeWeek": 668,
+    "timeMonth": 637,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2025-08-14": 27,
       "2025-07-27": 42,
@@ -40,8 +40,7 @@
       "2025-06-03": 45,
       "2025-03-03": 23,
       "2024-11-18": 21,
-      "2024-10-12": 20,
-      "2024-10-05": 106
+      "2024-10-12": 20
     }
   },
   {
@@ -54,19 +53,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1259,
-    "timeDay": 1712,
-    "timeWeek": 1531,
-    "timeMonth": 1592,
-    "timeYear": 1300,
+    "timeDay": 1295,
+    "timeWeek": 1433,
+    "timeMonth": 1565,
+    "timeYear": 1302,
     "dailyMinutesDown": {
       "2025-06-03": 32,
       "2025-03-03": 22,
       "2025-01-30": 19,
       "2024-11-18": 19,
-      "2024-10-12": 18,
-      "2024-10-05": 106
+      "2024-10-12": 18
     }
   },
   {
@@ -81,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 412,
-    "timeDay": 4000,
-    "timeWeek": 889,
-    "timeMonth": 534,
+    "timeDay": 415,
+    "timeWeek": 888,
+    "timeMonth": 535,
     "timeYear": 420,
     "dailyMinutesDown": {}
   },
@@ -98,10 +96,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1405,
-    "timeDay": 1484,
-    "timeWeek": 1338,
-    "timeMonth": 1312,
+    "time": 1404,
+    "timeDay": 1149,
+    "timeWeek": 1327,
+    "timeMonth": 1299,
     "timeYear": 1416,
     "dailyMinutesDown": {
       "2025-07-21": 34,
@@ -122,8 +120,7 @@
       "2024-10-13": 25,
       "2024-10-10": 18,
       "2024-10-08": 17,
-      "2024-10-06": 16,
-      "2024-10-05": 26
+      "2024-10-06": 16
     }
   },
   {
@@ -132,18 +129,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.ohmy.xin.ico",
     "slug": "docs-ohmy-xin",
     "status": "down",
-    "uptime": "82.11%",
+    "uptime": "82.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "13.43%",
-    "time": 480,
+    "uptimeYear": "13.16%",
+    "time": 479,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 466,
+    "timeYear": 467,
     "dailyMinutesDown": {
-      "2025-10-04": 86,
+      "2025-10-05": 106,
+      "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
