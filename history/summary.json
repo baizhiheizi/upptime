@@ -6,9 +6,9 @@
     "slug": "baizhiheizi",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 192,
     "timeDay": 232,
@@ -16,7 +16,7 @@
     "timeMonth": 195,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 13
     }
   },
   {
@@ -90,18 +90,19 @@
     "url": "https://ohmy.xin",
     "icon": "https://icons.duckduckgo.com/ip3/ohmy.xin.ico",
     "slug": "oh-my",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1406,
-    "timeDay": 1366,
-    "timeWeek": 1524,
-    "timeMonth": 1330,
-    "timeYear": 1287,
+    "time": 1404,
+    "timeDay": 810,
+    "timeWeek": 1365,
+    "timeMonth": 1297,
+    "timeYear": 1284,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-07-21": 34,
       "2025-06-04": 17,
       "2025-05-26": 26,
@@ -129,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2025-11-18": 694,
+      "2025-11-18": 707,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
