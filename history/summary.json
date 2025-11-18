@@ -4,17 +4,17 @@
     "url": "https://baizhiheizi.com",
     "icon": "https://icons.duckduckgo.com/ip3/baizhiheizi.com.ico",
     "slug": "baizhiheizi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "89.49%",
+    "uptimeDay": "89.48%",
     "uptimeWeek": "98.50%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
     "time": 193,
-    "timeDay": 291,
-    "timeWeek": 238,
-    "timeMonth": 207,
-    "timeYear": 204,
+    "timeDay": 271,
+    "timeWeek": 233,
+    "timeMonth": 206,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2025-11-18": 152
     }
@@ -132,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2025-11-18": 950,
+      "2025-11-18": 979,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
