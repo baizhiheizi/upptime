@@ -1,7 +1,7 @@
 url: https://ohmy.xin
-status: up
-code: 200
-responseTime: 1125
-lastUpdated: 2026-03-10T23:32:51.783Z
+status: down
+code: 500
+responseTime: 1365
+lastUpdated: 2026-03-11T18:04:49.635Z
 startTime: 2020-12-02T07:31:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
