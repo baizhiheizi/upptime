@@ -25,17 +25,17 @@
     "url": "https://quill.im",
     "icon": "https://icons.duckduckgo.com/ip3/quill.im.ico",
     "slug": "quill",
-    "status": "down",
+    "status": "up",
     "uptime": "88.59%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "93.01%",
-    "uptimeYear": "57.20%",
-    "time": 576,
-    "timeDay": 19671,
-    "timeWeek": 3327,
-    "timeMonth": 1130,
-    "timeYear": 520,
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "93.02%",
+    "uptimeYear": "57.19%",
+    "time": 575,
+    "timeDay": 10018,
+    "timeWeek": 2957,
+    "timeMonth": 1107,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2025-07-25": 31,
       "2025-07-27": 42,
@@ -200,7 +200,7 @@
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1197,
-      "2026-06-04": 3
+      "2026-06-04": 23
     }
   },
   {
@@ -212,7 +212,7 @@
     "uptime": "88.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.42%",
-    "uptimeMonth": "87.68%",
+    "uptimeMonth": "87.73%",
     "uptimeYear": "56.78%",
     "time": 970,
     "timeDay": 1057,
@@ -410,16 +410,16 @@
     "url": "https://ohmy.xin",
     "icon": "https://icons.duckduckgo.com/ip3/ohmy.xin.ico",
     "slug": "oh-my",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
-    "time": 1452,
-    "timeDay": 38977,
-    "timeWeek": 7165,
-    "timeMonth": 2997,
+    "time": 1453,
+    "timeDay": 20269,
+    "timeWeek": 6464,
+    "timeMonth": 2952,
     "timeYear": 1484,
     "dailyMinutesDown": {
       "2025-07-21": 34,
@@ -428,7 +428,7 @@
       "2026-01-30": 29,
       "2026-02-15": 53,
       "2026-03-11": 64,
-      "2026-06-04": 1
+      "2026-06-04": 21
     }
   },
   {
@@ -448,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-04": 108,
+      "2026-06-04": 128,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
