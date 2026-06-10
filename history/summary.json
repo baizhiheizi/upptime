@@ -208,17 +208,17 @@
     "url": "https://quill.im/api/articles",
     "icon": "https://icons.duckduckgo.com/ip3/quill.im.ico",
     "slug": "quill-api",
-    "status": "down",
-    "uptime": "88.46%",
-    "uptimeDay": "84.67%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "94.16%",
-    "uptimeYear": "56.73%",
-    "time": 991,
-    "timeDay": 954,
-    "timeWeek": 2655,
-    "timeMonth": 2134,
-    "timeYear": 880,
+    "status": "up",
+    "uptime": "88.45%",
+    "uptimeDay": "80.70%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "94.02%",
+    "uptimeYear": "56.72%",
+    "time": 992,
+    "timeDay": 1112,
+    "timeWeek": 2482,
+    "timeMonth": 2109,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2025-10-11": 19,
       "2025-11-18": 144,
@@ -383,7 +383,7 @@
       "2026-05-22": 1162,
       "2026-05-29": 7,
       "2026-05-28": 1160,
-      "2026-06-10": 221
+      "2026-06-10": 278
     }
   },
   {
@@ -449,7 +449,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-10": 239,
+      "2026-06-10": 297,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
