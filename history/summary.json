@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 206,
-    "timeDay": 138,
+    "timeDay": 176,
     "timeWeek": 173,
-    "timeMonth": 159,
+    "timeMonth": 161,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2025-11-18": 181,
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/quill.im.ico",
     "slug": "quill",
     "status": "up",
-    "uptime": "88.63%",
+    "uptime": "88.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "57.19%",
     "time": 573,
-    "timeDay": 407,
-    "timeWeek": 2944,
-    "timeMonth": 1138,
+    "timeDay": 957,
+    "timeWeek": 2723,
+    "timeMonth": 1157,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2025-07-25": 31,
@@ -208,17 +208,17 @@
     "url": "https://quill.im/api/articles",
     "icon": "https://icons.duckduckgo.com/ip3/quill.im.ico",
     "slug": "quill-api",
-    "status": "up",
-    "uptime": "88.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "88.47%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "94.66%",
     "uptimeYear": "56.78%",
-    "time": 992,
-    "timeDay": 4141,
-    "timeWeek": 2717,
-    "timeMonth": 2137,
-    "timeYear": 881,
+    "time": 991,
+    "timeDay": 954,
+    "timeWeek": 2497,
+    "timeMonth": 2134,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2025-10-11": 19,
       "2025-11-18": 144,
@@ -382,7 +382,8 @@
       "2026-05-23": 11,
       "2026-05-22": 1162,
       "2026-05-29": 7,
-      "2026-05-28": 1160
+      "2026-05-28": 1160,
+      "2026-06-10": 1
     }
   },
   {
@@ -397,9 +398,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 410,
-    "timeDay": 423,
-    "timeWeek": 428,
-    "timeMonth": 427,
+    "timeDay": 348,
+    "timeWeek": 418,
+    "timeMonth": 423,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2025-12-05": 33
@@ -416,11 +417,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
-    "time": 1460,
-    "timeDay": 2282,
-    "timeWeek": 6530,
-    "timeMonth": 3011,
-    "timeYear": 1493,
+    "time": 1462,
+    "timeDay": 2334,
+    "timeWeek": 6064,
+    "timeMonth": 3017,
+    "timeYear": 1495,
     "dailyMinutesDown": {
       "2025-07-21": 34,
       "2025-11-18": 139,
@@ -437,7 +438,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.ohmy.xin.ico",
     "slug": "docs-ohmy-xin",
     "status": "down",
-    "uptime": "72.00%",
+    "uptime": "71.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -448,7 +449,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-09": 228,
+      "2026-06-10": 19,
+      "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -811,8 +813,7 @@
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
-      "2025-06-11": 1440,
-      "2025-06-10": 1440
+      "2025-06-11": 1440
     }
   }
 ]
