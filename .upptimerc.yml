@@ -8,14 +8,12 @@ sites:
     url: https://baizhiheizi.com
   - name: Quill
     url: https://quill.im
-  - name: Quill API
-    url: https://quill.im/api/articles
-  - name: docs.quill.im
-    url: https://docs.quill.im
   - name: OhMy
     url: https://ohmy.xin
-  - name: docs.ohmy.xin
-    url: https://docs.ohmy.xin
+  - name: Rune
+    url: https://rune.fan
+  - name: Enjoy
+    url: https://enjoy.bot
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
